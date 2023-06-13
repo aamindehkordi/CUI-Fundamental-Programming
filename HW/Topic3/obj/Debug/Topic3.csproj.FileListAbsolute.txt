@@ -1,0 +1,7 @@
+C:\Users\aamin\source\repos\Topic3\obj\Debug\Topic3.csprojAssemblyReference.cache
+C:\Users\aamin\source\repos\Topic3\obj\Debug\Topic3.csproj.CoreCompileInputs.cache
+C:\Users\aamin\source\repos\Topic3\bin\Debug\Topic3.exe.config
+C:\Users\aamin\source\repos\Topic3\bin\Debug\Topic3.exe
+C:\Users\aamin\source\repos\Topic3\bin\Debug\Topic3.pdb
+C:\Users\aamin\source\repos\Topic3\obj\Debug\Topic3.exe
+C:\Users\aamin\source\repos\Topic3\obj\Debug\Topic3.pdb

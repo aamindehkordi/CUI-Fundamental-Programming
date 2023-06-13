@@ -1,0 +1,14 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\bin\Debug\Planets.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\bin\Debug\Planets.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\bin\Debug\Planets.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\obj\Debug\Planets.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\obj\Debug\Planets.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\obj\Debug\Planets.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Planets\obj\Debug\Planets.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\bin\Debug\Planets.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\bin\Debug\Planets.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\bin\Debug\Planets.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\obj\Debug\Planets.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\obj\Debug\Planets.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\obj\Debug\Planets.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Planets\obj\Debug\Planets.pdb

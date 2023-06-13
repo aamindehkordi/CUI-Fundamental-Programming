@@ -1,0 +1,34 @@
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.deps.json
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/bin/Debug/netstandard2.0/BattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfoInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfo.cs
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CopyComplete
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject -3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.deps.json
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/BattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfoInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfo.cs
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CopyComplete
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.dll
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.deps.json
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.dll
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/MyBattleshipAgent.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/bin/Debug/netstandard2.0/BattleshipAgent.dll
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.AssemblyReference.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfoInputs.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.AssemblyInfo.cs
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CoreCompileInputs.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.csproj.CopyComplete
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.dll
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/obj/Debug/netstandard2.0/MyBattleshipAgent.pdb

@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\bin\Debug\0.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\bin\Debug\0.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\bin\Debug\0.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\obj\Debug\0.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\obj\Debug\0.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\obj\Debug\0.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Projects\0\obj\Debug\0.pdb

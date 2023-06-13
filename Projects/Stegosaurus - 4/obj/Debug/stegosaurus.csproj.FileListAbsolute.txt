@@ -1,0 +1,21 @@
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/bin/Debug/stegosaurus.exe.config
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/bin/Debug/stegosaurus.exe
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/bin/Debug/stegosaurus.pdb
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/obj/Debug/stegosaurus.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/obj/Debug/stegosaurus.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/obj/Debug/stegosaurus.exe
+C:/Users/aamin/OneDrive/Desktop/stegosaurus/obj/Debug/stegosaurus.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.exe.config
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.exe.config
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/bin/Debug/stegosaurus.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.csproj.AssemblyReference.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.csproj.CoreCompileInputs.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Stegosaurus - 4/obj/Debug/stegosaurus.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJM0zvyL16SN8GC9pPbbHvLrVh/bdlIADO1dlfXgfiA5TZ35Fo/WiiA3knoIskEbVsG/+0kNCYiHnXsu32Fj8A==",
+  "success": true,
+  "projectFilePath": "/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/BattleshipProject - 3/MyBattleshipAgent/MyBattleshipAgent.csproj",
+  "expectedPackageFiles": [
+    "/Users/aamindehkordi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/aamindehkordi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

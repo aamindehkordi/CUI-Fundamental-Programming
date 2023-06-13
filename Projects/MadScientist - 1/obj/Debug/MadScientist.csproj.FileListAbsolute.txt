@@ -1,0 +1,21 @@
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/bin/Debug/MadScientist.exe.config
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/bin/Debug/MadScientist.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/bin/Debug/MadScientist.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/obj/Debug/MadScientist.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/obj/Debug/MadScientist.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/obj/Debug/MadScientist.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist/obj/Debug/MadScientist.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.exe.config
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.exe.config
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/bin/Debug/MadScientist.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.csproj.AssemblyReference.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.csproj.CoreCompileInputs.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/MadScientist - 1/obj/Debug/MadScientist.pdb

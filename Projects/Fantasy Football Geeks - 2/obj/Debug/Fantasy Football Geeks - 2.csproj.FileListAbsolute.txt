@@ -1,0 +1,14 @@
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.exe.config
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.pdb
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.csprojAssemblyReference.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.csproj.CoreCompileInputs.cache
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.exe
+C:/Users/aamin/OneDrive/Desktop/Other/Coding/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.exe.config
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/bin/Debug/Fantasy Football Geeks - 2.pdb
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.csproj.AssemblyReference.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.csproj.CoreCompileInputs.cache
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.exe
+/Users/aamindehkordi/Library/CloudStorage/OneDrive-Personal/Desktop/Other/Coding/School/Fundamentals/Projects/Fantasy Football Geeks - 2/obj/Debug/Fantasy Football Geeks - 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\obj\Debug\[0-100].csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\obj\Debug\[0-100].csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\bin\Debug\[0-100].exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\bin\Debug\[0-100].exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\bin\Debug\[0-100].pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\obj\Debug\[0-100].exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\[0-100]\obj\Debug\[0-100].pdb

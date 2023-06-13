@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\bin\Debug\speedConversionActivity.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\bin\Debug\speedConversionActivity.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\bin\Debug\speedConversionActivity.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\obj\Debug\Speed Conversion - Class Activity.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\obj\Debug\Speed Conversion - Class Activity.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\obj\Debug\speedConversionActivity.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Speed Conversion - Class Activity\Speed Conversion - Class Activity\obj\Debug\speedConversionActivity.pdb

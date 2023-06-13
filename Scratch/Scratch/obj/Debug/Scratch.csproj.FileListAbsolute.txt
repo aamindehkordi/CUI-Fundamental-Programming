@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\bin\Debug\Scratch.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\bin\Debug\Scratch.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\bin\Debug\Scratch.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\obj\Debug\Scratch.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\obj\Debug\Scratch.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\obj\Debug\Scratch.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Scratch\obj\Debug\Scratch.pdb

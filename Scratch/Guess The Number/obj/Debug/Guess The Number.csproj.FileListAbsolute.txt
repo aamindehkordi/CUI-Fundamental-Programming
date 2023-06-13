@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\bin\Debug\Guess The Number.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\bin\Debug\Guess The Number.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\bin\Debug\Guess The Number.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\obj\Debug\Guess The Number.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\obj\Debug\Guess The Number.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\obj\Debug\Guess The Number.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Scratch\Guess The Number\obj\Debug\Guess The Number.pdb

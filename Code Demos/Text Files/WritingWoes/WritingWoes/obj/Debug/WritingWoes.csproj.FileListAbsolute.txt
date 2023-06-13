@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\bin\Debug\WritingWoes.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\bin\Debug\WritingWoes.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\bin\Debug\WritingWoes.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\obj\Debug\WritingWoes.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\obj\Debug\WritingWoes.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\obj\Debug\WritingWoes.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\WritingWoes\WritingWoes\obj\Debug\WritingWoes.pdb

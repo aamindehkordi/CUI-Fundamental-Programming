@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\bin\Debug\SortingStrings.exe.config
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\bin\Debug\SortingStrings.exe
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\bin\Debug\SortingStrings.pdb
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\obj\Debug\SortingStrings.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\obj\Debug\SortingStrings.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\obj\Debug\SortingStrings.exe
+C:\Users\E00314596\source\repos\SortingStrings\SortingStrings\obj\Debug\SortingStrings.pdb

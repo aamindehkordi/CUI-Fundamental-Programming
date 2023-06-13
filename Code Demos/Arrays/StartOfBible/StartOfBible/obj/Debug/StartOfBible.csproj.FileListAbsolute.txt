@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\obj\Debug\StartOfBible.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\obj\Debug\StartOfBible.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\bin\Debug\StartOfBible.exe.config
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\bin\Debug\StartOfBible.exe
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\bin\Debug\StartOfBible.pdb
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\obj\Debug\StartOfBible.exe
+C:\Users\joshua\source\repos\StartOfBible\StartOfBible\obj\Debug\StartOfBible.pdb

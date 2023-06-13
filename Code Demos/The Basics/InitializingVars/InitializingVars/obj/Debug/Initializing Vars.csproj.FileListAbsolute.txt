@@ -1,0 +1,7 @@
+D:\cui\Initializing Vars\Initializing Vars\obj\Debug\Initializing Vars.csprojAssemblyReference.cache
+D:\cui\Initializing Vars\Initializing Vars\obj\Debug\Initializing Vars.csproj.CoreCompileInputs.cache
+D:\cui\Initializing Vars\Initializing Vars\bin\Debug\Initializing Vars.exe.config
+D:\cui\Initializing Vars\Initializing Vars\bin\Debug\Initializing Vars.exe
+D:\cui\Initializing Vars\Initializing Vars\bin\Debug\Initializing Vars.pdb
+D:\cui\Initializing Vars\Initializing Vars\obj\Debug\Initializing Vars.exe
+D:\cui\Initializing Vars\Initializing Vars\obj\Debug\Initializing Vars.pdb

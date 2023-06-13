@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\E00314596\source\repos\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb

@@ -1,0 +1,16 @@
+D:\cui\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.exe.config
+D:\cui\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.exe
+D:\cui\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.pdb
+D:\cui\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csprojAssemblyReference.cache
+D:\cui\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csproj.CoreCompileInputs.cache
+D:\cui\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.exe
+D:\cui\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.pdb
+D:\cui\src\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.exe.config
+D:\cui\src\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.exe
+D:\cui\src\PrimitiveTech\PrimitiveTech\bin\Debug\PrimitiveTech.pdb
+D:\cui\src\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csprojAssemblyReference.cache
+D:\cui\src\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csproj.CoreCompileInputs.cache
+D:\cui\src\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.exe
+D:\cui\src\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\the basics\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\the basics\PrimitiveTech\PrimitiveTech\obj\Debug\PrimitiveTech.csproj.CoreCompileInputs.cache

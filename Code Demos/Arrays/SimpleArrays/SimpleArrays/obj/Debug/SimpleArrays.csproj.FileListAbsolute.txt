@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\bin\Debug\SimpleArrays.exe.config
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\bin\Debug\SimpleArrays.exe
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\bin\Debug\SimpleArrays.pdb
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\obj\Debug\SimpleArrays.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\obj\Debug\SimpleArrays.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\obj\Debug\SimpleArrays.exe
+C:\Users\joshua\source\repos\SimpleArrays\SimpleArrays\obj\Debug\SimpleArrays.pdb

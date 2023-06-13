@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\obj\Debug\SimpleFileStreams.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\obj\Debug\SimpleFileStreams.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\bin\Debug\SimpleFileStreams.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\bin\Debug\SimpleFileStreams.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\bin\Debug\SimpleFileStreams.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\obj\Debug\SimpleFileStreams.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Text Files\SimpleFileStreams\SimpleFileStreams\obj\Debug\SimpleFileStreams.pdb

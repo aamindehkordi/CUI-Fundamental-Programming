@@ -1,0 +1,3 @@
+Hello CSC104
+This is my data file
+It only has three lines

@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\obj\Debug\DnaSearch.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\obj\Debug\DnaSearch.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\bin\Debug\DnaSearch.exe.config
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\bin\Debug\DnaSearch.exe
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\bin\Debug\DnaSearch.pdb
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\obj\Debug\DnaSearch.exe
+C:\Users\E00314596\source\repos\DnaSearch\DnaSearch\obj\Debug\DnaSearch.pdb

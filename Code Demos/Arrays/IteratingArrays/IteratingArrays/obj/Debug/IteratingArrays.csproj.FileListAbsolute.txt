@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\bin\Debug\IteratingArrays.exe.config
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\bin\Debug\IteratingArrays.exe
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\bin\Debug\IteratingArrays.pdb
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\obj\Debug\IteratingArrays.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\obj\Debug\IteratingArrays.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\obj\Debug\IteratingArrays.exe
+C:\Users\joshua\source\repos\IteratingArrays\IteratingArrays\obj\Debug\IteratingArrays.pdb

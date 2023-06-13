@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\bin\Debug\SplittingUrls.exe.config
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\bin\Debug\SplittingUrls.exe
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\bin\Debug\SplittingUrls.pdb
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\obj\Debug\SplittingUrls.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\obj\Debug\SplittingUrls.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\obj\Debug\SplittingUrls.exe
+C:\Users\E00314596\source\repos\SplittingUrls\SplittingUrls\obj\Debug\SplittingUrls.pdb

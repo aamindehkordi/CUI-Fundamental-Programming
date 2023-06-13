@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.exe.config
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.exe
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.exe
+C:\Users\E00314596\source\repos\PhoneNumbers\PhoneNumbers\obj\Debug\PhoneNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\obj\Debug\ToInfiniteAndBeyond.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\obj\Debug\ToInfiniteAndBeyond.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\bin\Debug\ToInfiniteAndBeyond.exe.config
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\bin\Debug\ToInfiniteAndBeyond.exe
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\bin\Debug\ToInfiniteAndBeyond.pdb
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\obj\Debug\ToInfiniteAndBeyond.exe
+C:\Users\joshua\source\repos\ToInfiniteAndBeyond\ToInfiniteAndBeyond\obj\Debug\ToInfiniteAndBeyond.pdb

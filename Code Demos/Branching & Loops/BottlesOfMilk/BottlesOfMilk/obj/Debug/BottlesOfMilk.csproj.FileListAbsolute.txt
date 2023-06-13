@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\bin\Debug\BottlesOfMilk.exe.config
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\bin\Debug\BottlesOfMilk.exe
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\bin\Debug\BottlesOfMilk.pdb
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\obj\Debug\BottlesOfMilk.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\obj\Debug\BottlesOfMilk.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\obj\Debug\BottlesOfMilk.exe
+C:\Users\E00314596\source\repos\BottlesOfMilk\BottlesOfMilk\obj\Debug\BottlesOfMilk.pdb

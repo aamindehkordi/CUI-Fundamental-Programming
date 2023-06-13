@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\bin\Debug\BoundingErrors.exe.config
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\bin\Debug\BoundingErrors.exe
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\bin\Debug\BoundingErrors.pdb
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\obj\Debug\BoundingErrors.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\obj\Debug\BoundingErrors.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\obj\Debug\BoundingErrors.exe
+C:\Users\joshua\source\repos\BoundingErrors\BoundingErrors\obj\Debug\BoundingErrors.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButWhatIf", "ButWhatIf\ButWhatIf.csproj", "{FB6F1F55-15F5-4C88-9350-1849B1E1EE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6F1F55-15F5-4C88-9350-1849B1E1EE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6F1F55-15F5-4C88-9350-1849B1E1EE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6F1F55-15F5-4C88-9350-1849B1E1EE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6F1F55-15F5-4C88-9350-1849B1E1EE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA33F42A-754F-4A62-A110-6392E4AA4473}
+	EndGlobalSection
+EndGlobal

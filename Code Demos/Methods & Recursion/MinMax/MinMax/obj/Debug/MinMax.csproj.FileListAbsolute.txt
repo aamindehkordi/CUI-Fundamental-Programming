@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\MinMax\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\joshua\source\repos\MinMax\MinMax\bin\Debug\MinMax.exe
+C:\Users\joshua\source\repos\MinMax\MinMax\bin\Debug\MinMax.pdb
+C:\Users\joshua\source\repos\MinMax\MinMax\obj\Debug\MinMax.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\MinMax\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\MinMax\MinMax\obj\Debug\MinMax.exe
+C:\Users\joshua\source\repos\MinMax\MinMax\obj\Debug\MinMax.pdb

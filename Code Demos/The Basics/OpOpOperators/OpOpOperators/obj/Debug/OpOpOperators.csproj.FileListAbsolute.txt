@@ -1,0 +1,14 @@
+D:\cui\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.exe.config
+D:\cui\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.exe
+D:\cui\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.pdb
+D:\cui\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.csprojAssemblyReference.cache
+D:\cui\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.csproj.CoreCompileInputs.cache
+D:\cui\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.exe
+D:\cui\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.pdb
+D:\cui\src\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.exe.config
+D:\cui\src\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.exe
+D:\cui\src\OpOpOperators\OpOpOperators\bin\Debug\OpOpOperators.pdb
+D:\cui\src\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.csprojAssemblyReference.cache
+D:\cui\src\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.csproj.CoreCompileInputs.cache
+D:\cui\src\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.exe
+D:\cui\src\OpOpOperators\OpOpOperators\obj\Debug\OpOpOperators.pdb

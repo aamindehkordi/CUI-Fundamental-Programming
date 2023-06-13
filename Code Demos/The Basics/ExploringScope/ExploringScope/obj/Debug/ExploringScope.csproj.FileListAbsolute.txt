@@ -1,0 +1,14 @@
+D:\cui\ExploringScope\ExploringScope\obj\Debug\ExploringScope.csprojAssemblyReference.cache
+D:\cui\ExploringScope\ExploringScope\obj\Debug\ExploringScope.csproj.CoreCompileInputs.cache
+D:\cui\ExploringScope\ExploringScope\bin\Debug\ExploringScope.exe.config
+D:\cui\ExploringScope\ExploringScope\bin\Debug\ExploringScope.exe
+D:\cui\ExploringScope\ExploringScope\bin\Debug\ExploringScope.pdb
+D:\cui\ExploringScope\ExploringScope\obj\Debug\ExploringScope.exe
+D:\cui\ExploringScope\ExploringScope\obj\Debug\ExploringScope.pdb
+D:\cui\src\ExploringScope\ExploringScope\bin\Debug\ExploringScope.exe.config
+D:\cui\src\ExploringScope\ExploringScope\bin\Debug\ExploringScope.exe
+D:\cui\src\ExploringScope\ExploringScope\bin\Debug\ExploringScope.pdb
+D:\cui\src\ExploringScope\ExploringScope\obj\Debug\ExploringScope.csprojAssemblyReference.cache
+D:\cui\src\ExploringScope\ExploringScope\obj\Debug\ExploringScope.csproj.CoreCompileInputs.cache
+D:\cui\src\ExploringScope\ExploringScope\obj\Debug\ExploringScope.exe
+D:\cui\src\ExploringScope\ExploringScope\obj\Debug\ExploringScope.pdb

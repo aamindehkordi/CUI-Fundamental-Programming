@@ -1,0 +1,14 @@
+D:\cui\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.exe.config
+D:\cui\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.exe
+D:\cui\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.pdb
+D:\cui\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.csprojAssemblyReference.cache
+D:\cui\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.csproj.CoreCompileInputs.cache
+D:\cui\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.exe
+D:\cui\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.pdb
+D:\cui\src\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.exe.config
+D:\cui\src\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.exe
+D:\cui\src\VarsInMemory\VarsInMemory\bin\Debug\VarsInMemory.pdb
+D:\cui\src\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.csprojAssemblyReference.cache
+D:\cui\src\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.csproj.CoreCompileInputs.cache
+D:\cui\src\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.exe
+D:\cui\src\VarsInMemory\VarsInMemory\obj\Debug\VarsInMemory.pdb

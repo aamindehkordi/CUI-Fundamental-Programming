@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\Concordance\Concordance\obj\Debug\Concordance.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\Concordance\Concordance\obj\Debug\Concordance.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\Concordance\Concordance\bin\Debug\Concordance.exe.config
+C:\Users\E00314596\source\repos\Concordance\Concordance\bin\Debug\Concordance.exe
+C:\Users\E00314596\source\repos\Concordance\Concordance\bin\Debug\Concordance.pdb
+C:\Users\E00314596\source\repos\Concordance\Concordance\obj\Debug\Concordance.exe
+C:\Users\E00314596\source\repos\Concordance\Concordance\obj\Debug\Concordance.pdb

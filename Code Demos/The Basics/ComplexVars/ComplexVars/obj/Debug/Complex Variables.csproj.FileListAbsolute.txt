@@ -1,0 +1,7 @@
+D:\cui\Complex Variables\Complex Variables\bin\Debug\ComplexVariables.exe.config
+D:\cui\Complex Variables\Complex Variables\bin\Debug\ComplexVariables.exe
+D:\cui\Complex Variables\Complex Variables\bin\Debug\ComplexVariables.pdb
+D:\cui\Complex Variables\Complex Variables\obj\Debug\Complex Variables.csprojAssemblyReference.cache
+D:\cui\Complex Variables\Complex Variables\obj\Debug\Complex Variables.csproj.CoreCompileInputs.cache
+D:\cui\Complex Variables\Complex Variables\obj\Debug\ComplexVariables.exe
+D:\cui\Complex Variables\Complex Variables\obj\Debug\ComplexVariables.pdb

@@ -1,0 +1,14 @@
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\bin\Debug\OutputParams.exe.config
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\bin\Debug\OutputParams.exe
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\bin\Debug\OutputParams.pdb
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\obj\Debug\OutputParams.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\obj\Debug\OutputParams.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\obj\Debug\OutputParams.exe
+C:\Users\E00314596\source\repos\OutputParams\OutputParams\obj\Debug\OutputParams.pdb
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\bin\Debug\OutputParams.exe.config
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\bin\Debug\OutputParams.exe
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\bin\Debug\OutputParams.pdb
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\obj\Debug\OutputParams.csprojAssemblyReference.cache
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\obj\Debug\OutputParams.csproj.CoreCompileInputs.cache
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\obj\Debug\OutputParams.exe
+D:\cui\104_fundamentals\methods\OutputParams\OutputParams\obj\Debug\OutputParams.pdb

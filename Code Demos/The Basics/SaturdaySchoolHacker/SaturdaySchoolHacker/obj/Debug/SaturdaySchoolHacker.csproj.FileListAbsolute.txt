@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\bin\Debug\SaturdaySchoolHacker.exe.config
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\bin\Debug\SaturdaySchoolHacker.exe
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\bin\Debug\SaturdaySchoolHacker.pdb
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\obj\Debug\SaturdaySchoolHacker.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\obj\Debug\SaturdaySchoolHacker.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\obj\Debug\SaturdaySchoolHacker.exe
+C:\Users\joshua\source\repos\SaturdaySchoolHacker\SaturdaySchoolHacker\obj\Debug\SaturdaySchoolHacker.pdb

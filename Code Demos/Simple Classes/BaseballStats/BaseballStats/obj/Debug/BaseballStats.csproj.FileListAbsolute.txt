@@ -1,0 +1,7 @@
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe.config
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\bin\Debug\BaseballStats.pdb
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\obj\Debug\BaseballStats.csprojAssemblyReference.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\obj\Debug\BaseballStats.csproj.CoreCompileInputs.cache
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\obj\Debug\BaseballStats.exe
+C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\Code Demos\Simple Classes\BaseballStats\BaseballStats\obj\Debug\BaseballStats.pdb

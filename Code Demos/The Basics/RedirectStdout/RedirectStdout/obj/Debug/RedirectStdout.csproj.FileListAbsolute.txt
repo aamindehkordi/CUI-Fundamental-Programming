@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\bin\Debug\RedirectStdout.exe.config
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\bin\Debug\RedirectStdout.exe
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\bin\Debug\RedirectStdout.pdb
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\obj\Debug\RedirectStdout.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\obj\Debug\RedirectStdout.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\obj\Debug\RedirectStdout.exe
+C:\Users\joshua\source\repos\RedirectStdout\RedirectStdout\obj\Debug\RedirectStdout.pdb

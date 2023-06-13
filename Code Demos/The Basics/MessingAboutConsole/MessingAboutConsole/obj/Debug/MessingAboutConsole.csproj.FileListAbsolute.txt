@@ -1,0 +1,7 @@
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\bin\Debug\MessingAboutConsole.exe.config
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\bin\Debug\MessingAboutConsole.exe
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\bin\Debug\MessingAboutConsole.pdb
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\obj\Debug\MessingAboutConsole.csprojAssemblyReference.cache
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\obj\Debug\MessingAboutConsole.csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\obj\Debug\MessingAboutConsole.exe
+C:\Users\joshua\source\repos\MessingAboutConsole\MessingAboutConsole\obj\Debug\MessingAboutConsole.pdb

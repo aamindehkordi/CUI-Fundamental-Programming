@@ -1,0 +1,7 @@
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.csprojAssemblyReference.cache
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\E00314596\source\repos\ForLoops\ForLoops\obj\Debug\ForLoops.pdb

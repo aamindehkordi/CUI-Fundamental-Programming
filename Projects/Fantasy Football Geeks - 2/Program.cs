@@ -3,18 +3,24 @@ using System.IO;
 
 namespace Fantasy_Football_Geeks___2
 {
-    class FootballGameStats
-    {
-        public int numberOfPasses;
-        public int numberOfCompletions;
-        public int yardsThrown;
-        public int touchdowns;
-    }
-
+    /// <summary>
+    /// Represents a football player.
+    /// </summary>
     class FootballPlayer
     {
+        /// <summary>
+        /// The maximum number of games a player can play.
+        /// </summary>
         public static readonly int MaxGames = 5;
+
+        /// <summary>
+        /// The name of the player.
+        /// </summary>
         public string Name;
+
+        /// <summary>
+        /// The team the player belongs to.
+        /// </summary>
         public string Team;
 
         private int gamesPlayed;
@@ -24,6 +30,11 @@ namespace Fantasy_Football_Geeks___2
         private int totalComp;//completions
         private double compAverage;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="FootballPlayer"/> class.
+        /// </summary>
+        /// <param name="name">The name of the player.</param>
+        /// <param name="team">The team the player belongs to.</param>
         public FootballPlayer(string name, string team)
         {
             Name = name;
@@ -35,6 +46,13 @@ namespace Fantasy_Football_Geeks___2
             compAverage = 0;
         }
 
+        /// <summary>
+        /// Adds a game to the player's stats.
+        /// </summary>
+        /// <param name="pAtt">The number of passes attempted.</param>
+        /// <param name="pComp">The number of passes completed.</param>
+        /// <param name="yards">The number of yards thrown.</param>
+        /// <param name="touchdowns">The number of touchdowns thrown.</param>
         public void AddGame(int pAtt, int pComp, int yards, int touchdowns)
         {
             gameStats[gamesPlayed] = new FootballGameStats();
@@ -49,12 +67,61 @@ namespace Fantasy_Football_Geeks___2
             compAverage = (double)totalYards / totalComp;
         }
 
+        /// <summary>
+        /// Gets the total number of yards thrown by the player.
+        /// </summary>
         public int TotalYards { get { return totalYards; } }
+
+        /// <summary>
+        /// Gets the total number of touchdowns thrown by the player.
+        /// </summary>
         public int Touchdowns { get { return Touchdowns; } }
+
+        /// <summary>
+        /// Gets the total number of passes completed by the player.
+        /// </summary>
         public int Completions { get { return totalComp; } }
+
+        /// <summary>
+        /// Gets the completion average of the player.
+        /// </summary>
         public double CompletionAverage { get { return compAverage; } }
+
+        /// <summary>
+        /// Gets the number of games played by the player.
+        /// </summary>
         public int GamesPlayed { get { return gamesPlayed; } }
+
+        /// <summary>
+        /// Gets the game stats of the player.
+        /// </summary>
         public FootballGameStats[] GameStats { get { return gameStats; } }
+    }
+
+    /// <summary>
+    /// Represents the stats of a football game.
+    /// </summary>
+    class FootballGameStats
+    {
+        /// <summary>
+        /// The number of passes attempted.
+        /// </summary>
+        public int numberOfPasses;
+
+        /// <summary>
+        /// The number of passes completed.
+        /// </summary>
+        public int numberOfCompletions;
+
+        /// <summary>
+        /// The number of yards thrown.
+        /// </summary>
+        public int yardsThrown;
+
+        /// <summary>
+        /// The number of touchdowns thrown.
+        /// </summary>
+        public int touchdowns;
     }
 
     class Program

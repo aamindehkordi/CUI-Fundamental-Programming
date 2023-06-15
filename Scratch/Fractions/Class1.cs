@@ -6,34 +6,39 @@ using System.Threading.Tasks;
 
 namespace Fractions
 {
-    class Fraction
+    /// <summary>
+    /// Represents a fraction with a numerator and denominator.
+    /// </summary>
+    public class Fraction
     {
         private int numer;
         private int denom;
 
-        /**
-         *  takes no parameters, and sets the fields to the default values 0/1.
-         */
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Fraction"/> class with default values of 0/1.
+        /// </summary>
         public Fraction()
         {
             numer = 0;
             denom = 1;
         }
 
-        /**
-         * takes 1 parameter, and puts it over 1, e.g. the parameter 5
-         * would result in the fraction 5/1
-         */
-        public  Fraction(int num)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Fraction"/> class with the specified numerator and a denominator of 1.
+        /// </summary>
+        /// <param name="num">The numerator of the fraction.</param>
+        public Fraction(int num)
         {
             numer = num;
             denom = 1;
         }
 
-        /**
-         * takes 2 parameters, a numerator and a denominator
-         */
-        public  Fraction(int num, int den)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Fraction"/> class with the specified numerator and denominator.
+        /// </summary>
+        /// <param name="num">The numerator of the fraction.</param>
+        /// <param name="den">The denominator of the fraction.</param>
+        public Fraction(int num, int den)
         {
             numer = num;
             denom = den;
@@ -41,75 +46,67 @@ namespace Fractions
 
         // Getters & Setters
 
-        /**
-         * getNumer() - returns numerator
-         *
-         * @return    the numerator
-         */
+        /// <summary>
+        /// Gets the numerator of the fraction.
+        /// </summary>
+        /// <returns>The numerator of the fraction.</returns>
         public int getNumer()
         {
             return numer;
-
         }
 
-        /**
-         * getDenom() - returns denominator
-         *
-         * @return    the denominator
-         */
+        /// <summary>
+        /// Gets the denominator of the fraction.
+        /// </summary>
+        /// <returns>The denominator of the fraction.</returns>
         public int getDenom()
         {
             return denom;
-
         }
 
-        /**
-         * setNumer(int tmpNumer) - sets desired numerator
-         * 
-         * @param       desired numerator
-         */
+        /// <summary>
+        /// Sets the numerator of the fraction.
+        /// </summary>
+        /// <param name="tmpNumer">The desired numerator.</param>
         public void setNumer(int tmpNumer)
         {
             numer = tmpNumer;
         }
 
-        /**
-         * setDenom(int tmpDenom) - sets desired denominator
-         * 
-         * @param       desired denominator
-         */
+        /// <summary>
+        /// Sets the denominator of the fraction.
+        /// </summary>
+        /// <param name="tmpDenom">The desired denominator.</param>
         public void setDenom(int tmpDenom)
         {
             denom = tmpDenom;
         }
 
-        /**
-         * setValue(int numer) - sets desired fraction
-         * 
-         * @param       desired numerator & denominator
-         */
+        /// <summary>
+        /// Sets the value of the fraction to the specified numerator and denominator.
+        /// </summary>
+        /// <param name="tmpNumer">The desired numerator.</param>
+        /// <param name="tmpDenom">The desired denominator.</param>
         public void setValue(int tmpNumer, int tmpDenom)
         {
             numer = tmpNumer;
             denom = tmpDenom;
         }
 
-        /**
-         * setValue(Fraction f) - sets desired fraction
-         * 
-         * @param       desired Fraction
-         */
+        /// <summary>
+        /// Sets the value of the fraction to the value of the specified fraction.
+        /// </summary>
+        /// <param name="f">The fraction to set the value to.</param>
         public void setValue(Fraction f)
         {
             numer = f.numer;
             denom = f.denom;
         }
 
-        /**
-         * toDouble() -  converts the Fraction to its real number equivalent
-         * 
-         * @return      Real number Equielant of Fraction
-         */
+        /// <summary>
+        /// Converts the fraction to its real number equivalent.
+        /// </summary>
+        /// <returns>The real number equivalent of the fraction.</returns>
         public double toDouble()
         {
             double dNumer = numer;
@@ -117,25 +114,21 @@ namespace Fractions
             return dNumer / dDenom;
         }
 
-        /**
-         * toString() -  converts the Fraction to a String, in the format: 
-         * Numerator/Denominator
-         * 
-         * @return      Fraction as a String
-         */
+        /// <summary>
+        /// Converts the fraction to a string in the format Numerator/Denominator.
+        /// </summary>
+        /// <returns>The fraction as a string.</returns>
         public String toString()
         {
             String sFraction = (numer + "/" + denom);
             return sFraction;
         }
 
-        /**
-         * add(Fraction f) – add the Fraction f to the current (calling) Fraction. This
-         * should not modify the value of f or the current Fraction. It returns the new value.
-         * 
-         * @return      The result of the addition of both fractions.
-         * @param       Fraction you want to convert into a String.     
-         */
+        /// <summary>
+        /// Adds the specified fraction to the current fraction.
+        /// </summary>
+        /// <param name="f">The fraction to add.</param>
+        /// <returns>The result of the addition of both fractions.</returns>
         public Fraction add(Fraction f)
         {
             int newNumer = numer * f.denom + f.numer * denom;
@@ -144,13 +137,11 @@ namespace Fractions
             return result;
         }
 
-        /**
-         * add(int i) – add the integer i to the current (calling) Fraction. This should
-         * not modify the value of the current Fraction.
-         *
-         * @return      The result of the addition of the fraction and integer.
-         * @param       Fraction you want to convert into a String.
-         */
+        /// <summary>
+        /// Adds the specified integer to the current fraction.
+        /// </summary>
+        /// <param name="i">The integer to add.</param>
+        /// <returns>The result of the addition of the fraction and integer.</returns>
         public Fraction add(int i)
         {
             int newNumer = denom * i + numer;
@@ -158,14 +149,11 @@ namespace Fractions
             return result;
         }
 
-        /**
-         * subtract(Fraction f) – subtract the Fraction f from the current (calling)
-         * Fraction. This should not modify the value of f or the current Fraction.
-         * add(int i) – add the integer i to the current (calling) Fraction. This should
-         * not modify the value of the current Fraction.
-         * @return      The result of the subtraction of both fractions.
-         * @param       Fraction you want to convert into a String.
-         */
+        /// <summary>
+        /// Subtracts the specified fraction from the current fraction.
+        /// </summary>
+        /// <param name="f">The fraction to subtract.</param>
+        /// <returns>The result of the subtraction of both fractions.</returns>
         public Fraction subtract(Fraction f)
         {
             int newNumer = numer * f.denom - f.numer * denom;
@@ -174,13 +162,11 @@ namespace Fractions
             return result;
         }
 
-        /**
-         *  multiply(Fraction f) – multiply the Fraction f by the current (calling)
-         * Fraction. This should not modify the value of f or the current Fraction.
-         *
-         * @return      The result of the multiplication of both fractions.
-         * @param       Fraction you want to convert into a String.
-         */
+        /// <summary>
+        /// Multiplies the specified fraction by the current fraction.
+        /// </summary>
+        /// <param name="f">The fraction to multiply.</param>
+        /// <returns>The result of the multiplication of both fractions.</returns>
         public Fraction multiply(Fraction f)
         {
             int newNumer = numer * f.numer;
@@ -189,13 +175,11 @@ namespace Fractions
             return result;
         }
 
-        /**
-         *  divide(Fraction f) – divide the current (calling) Fraction by the Fraction f
-         * This should not modify the value of f or the current Fraction.
-         *
-         * @return      The result of the division of both fractions.
-         * @param       Second Fraction.
-         */
+        /// <summary>
+        /// Divides the current fraction by the specified fraction.
+        /// </summary>
+        /// <param name="f">The fraction to divide by.</param>
+        /// <returns>The result of the division of both fractions.</returns>
         public Fraction divide(Fraction f)
         {
             int newNumer = numer * f.denom;
@@ -204,16 +188,11 @@ namespace Fractions
             return result;
         }
 
-        /**
-         * compareTo(Fraction f) - tells you which of two Fractions, the calling Fraction or
-         * f, is greater than the other, or are they equal.
-         *
-         * @return If they are equal, this method should
-         * return 0. If the calling Fraction is less than the Fraction f, the method should
-         * return a negative number. If the calling Fraction is greater, the method should
-         * return a positive number.
-         * @param       Second Fraction.
-         */
+        /// <summary>
+        /// Compares the current fraction to the specified fraction.
+        /// </summary>
+        /// <param name="f">The fraction to compare to.</param>
+        /// <returns>If they are equal, this method should return 0. If the calling Fraction is less than the Fraction f, the method should return a negative number. If the calling Fraction is greater, the method should return a positive number.</returns>
         public int compareTo(Fraction f)
         {
             double f1 = numer / denom;

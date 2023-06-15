@@ -1,7 +1,0 @@
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\bin\Debug\Topic2.exe.config
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\bin\Debug\Topic2.exe
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\bin\Debug\Topic2.pdb
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\obj\Debug\Topic2.csprojAssemblyReference.cache
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\obj\Debug\Topic2.csproj.CoreCompileInputs.cache
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\obj\Debug\Topic2.exe
-C:\Users\aamin\OneDrive\Desktop\Other\Coding\Fundamentals\HW\Topic2\obj\Debug\Topic2.pdb

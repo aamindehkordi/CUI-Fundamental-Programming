@@ -12,7 +12,7 @@ This folder contains various code demos related to arrays in C#. Each subfolder 
 
 4. SimpleArrays: This project demonstrates how to declare and initialize arrays. It also shows how to access array elements.
 
-5. StartOfBible: This project demonstrates how to create and work with a 3D array. It uses a 3D string array to represent the structure of the Bible.2. [IteratingArrays](https://github.com/aamindehkordi/CUI-Fundamental-Programming/tree/main/Code%20Demos/Arrays/IteratingArrays): This subfolder contains a code demo demonstrating how to iterate over arrays.
+5. StartOfBible: This project demonstrates how to create and work with a 3D array. It uses a 3D string array to represent the structure of the Bible.
 
 ## Running the Code Demos
 
